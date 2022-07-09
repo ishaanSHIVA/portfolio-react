@@ -1,0 +1,13 @@
+h2 {
+    background-image: radial-gradient(at 45% 37%, hsla(134, 60%, 61%, 1) 0px, transparent 50%),
+    radial-gradient(at 37% 33%, hsla(233, 88%, 63%, 1) 0px, transparent 50%),
+    radial-gradient(at 16% 58%, hsla(76, 89%, 69%, 1) 0px, transparent 50%),
+    radial-gradient(at 64% 83%, hsla(118, 82%, 66%, 1) 0px, transparent 50%),
+    radial-gradient(at 72% 3%, hsla(282, 77%, 76%, 1) 0px, transparent 50%),
+    radial-gradient(at 70% 37%, hsla(25, 92%, 78%, 1) 0px, transparent 50%),
+    radial-gradient(at 94% 98%, hsla(147, 87%, 66%, 1) 0px, transparent 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
